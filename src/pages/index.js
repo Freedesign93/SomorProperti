@@ -37,7 +37,7 @@ export default (() => {
 					Detail Harga
 				</Text>
 				<Text margin="0px 0px 0px 0px" color="--grey" text-align="center" font="--lead">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+					Silahkan pilih jangka waktu yg anda minati
 				</Text>
 			</Box>
 			<Box
@@ -63,7 +63,7 @@ export default (() => {
 					lg-padding="48px 35px 56px 35px"
 				>
 					<Text margin="0px 0px 24px 0px" font="--headline3">
-						Monopoly
+						Paket Link BCA
 					</Text>
 					<Text margin="0px 0px 8px 0px" font="--headline1">
 						$59
